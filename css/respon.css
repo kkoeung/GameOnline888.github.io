@@ -1,0 +1,377 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    header{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo .logo img{
+        width: 80px;
+        height: 60px;
+    }
+    header .head-logo .wrap .search{
+        width: 100%;
+        height: 100%;
+        margin-top: -20px;
+    }
+    header .head-logo .wrap .search input{
+        width: 100%;
+        height: 20px;
+        border: 0.01px solid #ffff00;
+    }
+    header .head-logo .wrap .search .searchButton {
+        width: 23px;
+        height: 20px;
+        font-size: 12px;
+        border: 0.01px solid #ffff00;
+    }
+    .main-content{
+        width: 100%;
+        height: 100%;
+    }
+    .marquee marquee .item{
+        height: 1500px;
+    }
+    .main-content .marquee{
+        flex-wrap: wrap;
+    }
+    .main-content .marquee .item .item-icon{
+        width: 45px;
+        height: 45px;
+        margin: 3px;
+    }
+    .main-content .marquee .item .item-icon .item-slect img{
+        width: 100%;
+        height: 100%;
+    }
+    .main-content .card .item .item-content .item-card{
+        display: inline-block;
+        border-radius: 10px;
+        margin: 5px;
+    }
+    .main-content .item-content{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .main-content .item-content .item-card{
+        width: 120px;
+        height: 230px;
+        flex-wrap: wrap;
+        
+    }
+    .main-content .item-content .img-card img{
+        width: 100%;
+        height: 100%;
+        margin-top: -15px;
+    }
+    .footer-column{
+        width: 100%;
+        height: 100%;
+    }
+    .footer-column .footer .footer-link img{
+        width: 100px;
+        height: 80px;
+    }
+    .footer-column .footer .web-link{
+        padding-top: 20px;
+    }
+    .footer-column .footer .web-link span{
+        font-size: 15px;
+    }
+    .footer-column .footer .app-link img{
+        width: 160px;
+        height: 100%;
+    }
+    .footer-column .footer .aboutus1 span{
+        font-size: 15px;
+    }
+    .footer-column .footer .aboutus2 span{
+        font-size: 10px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+    header{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo .logo img{
+        width: 80px;
+        height: 60px;
+    }
+    header .head-logo .wrap .search{
+        width: 100%;
+        height: 100%;
+        margin-top: -20px;
+    }
+    header .head-logo .wrap .search input{
+        width: 100%;
+        height: 20px;
+        border: 0.01px solid #ffff00;
+    }
+    header .head-logo .wrap .search .searchButton {
+        width: 23px;
+        height: 20px;
+        font-size: 12px;
+        border: 0.01px solid #ffff00;
+    }
+    .main-content{
+        width: 100%;
+        height: 100%;
+    }
+    .marquee marquee .item{
+        height: 1060px;
+    }
+    .main-content .marquee{
+        flex-wrap: wrap;
+    }
+    .main-content .marquee .item .item-icon{
+        width: 65px;
+        height: 65px;
+        margin: 6px;
+    }
+    .main-content .marquee .item .item-icon .item-slect img{
+        width: 100%;
+        height: 100%;
+    }
+    .main-content .card .item .item-content .item-card{
+        display: inline-block;
+        border-radius: 10px;
+        margin: 5px;
+    }
+    .main-content .item-content{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .main-content .item-content .item-card{
+        width: 120px;
+        height: 230px;
+        flex-wrap: wrap;
+        
+    }
+    .main-content .item-content .img-card img{
+        width: 100%;
+        height: 100%;
+        margin-top: -15px;
+    }
+    .footer-column{
+        width: 100%;
+        height: 100%;
+    }
+    .footer-column .footer .footer-link img{
+        width: 120px;
+        height: 100px;
+    }
+    .footer-column .footer .web-link{
+        padding-top: 20px;
+    }
+    .footer-column .footer .web-link span{
+        font-size: 20px;
+    }
+    .footer-column .footer .app-link img{
+        width: 180px;
+        height: 100%;
+    }
+    .footer-column .footer .aboutus1 span{
+        font-size: 20px;
+    }
+    .footer-column .footer .aboutus2 span{
+        font-size: 15px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px){
+    header{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo .logo img{
+        width: 80px;
+        height: 60px;
+    }
+    header .head-logo .wrap .search{
+        width: 100%;
+        height: 100%;
+        margin-top: -20px;
+    }
+    header .head-logo .wrap .search input{
+        width: 100%;
+        height: 30px;
+        border: 0.01px solid #ffff00;
+    }
+    header .head-logo .wrap .search .searchButton {
+        width: 40px;
+        height: 30px;
+        font-size: 15px;
+        border: 0.01px solid #ffff00;
+    }
+    .main-content{
+        width: 100%;
+        height: 100%;
+    }
+    .marquee marquee .item{
+        height: 1030px;
+    }
+    .main-content .marquee{
+        flex-wrap: wrap;
+    }
+    .main-content .marquee .item .item-icon{
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+    }
+    .main-content .marquee .item .item-icon .item-slect img{
+        width: 100%;
+        height: 100%;
+    }
+    .main-content .card .item .item-content .item-card{
+        display: inline-block;
+        border-radius: 10px;
+        margin: 5px;
+    }
+    .main-content .item-content{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main-content .item-content .item-card{
+        width: 150px;
+        height: 280px;
+        flex-wrap: wrap;
+    }
+    .main-content .item-content .img-card img{
+        width: 100%;
+        height: 100%;
+        margin-top: -15px;
+    }
+    .footer-column{
+        width: 100%;
+        height: 100%;
+    }
+    .footer-column .footer .footer-link img{
+        width: 150px;
+        height: 120px;
+    }
+    .footer-column .footer .web-link{
+        padding-top: 20px;
+    }
+    .footer-column .footer .web-link span{
+        font-size: 30px;
+    }
+    .footer-column .footer .app-link img{
+        width: 250px;
+        height: 100%;
+    }
+    .footer-column .footer .aboutus1 span{
+        font-size: 30px;
+    }
+    .footer-column .footer .aboutus2 span{
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1280px){
+    header{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo .logo img{
+        width: 120px;
+        height: 100px;
+    }
+    header .head-logo .wrap .search {
+        width: 100%;
+        height: 100%;
+        margin-top: -20px;
+    }
+    header .head-logo .wrap .search input{
+        width: 100%;
+        height: 35px;
+        border: 0.01px solid #ffff00;
+    }
+    header .head-logo .wrap .search .searchButton {
+        width: 40px;
+        height: 35px;
+        font-size: 18px;
+        border: 0.01px solid #ffff00;
+    }
+    .main-content{
+        width: 100%;
+        height: 100%;
+    }
+    .main-content .marquee{
+        flex-wrap: wrap;
+    }
+    .marquee marquee .item{
+        height: 1110px;
+    }
+    .main-content .marquee{
+        flex-wrap: wrap;
+    }
+    .main-content .marquee .item .item-icon{
+        width: 120px;
+        height: 120px;
+        margin: 15px;
+    }
+    .main-content .marquee .item .item-icon .item-slect img{
+        width: 100%;
+        height: 100%;
+    }
+    .main-content .card .item .item-content .item-card{
+        display: inline-block;
+        border-radius: 10px;
+        margin: 5px;
+    }
+    .main-content .item-content{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main-content .item-content .item-card{
+        width: 160px;
+        height: 290px;
+        flex-wrap: wrap;
+    }
+    .main-content .item-content .img-card img{
+        width: 100%;
+        height: 100%;
+        margin-top: -15px;
+    }
+    .footer-column{
+        width: 100%;
+        height: 100%;
+    }
+    .footer-column .footer .footer-link img{
+        width: 170px;
+        height: 140px;
+    }
+    .footer-column .footer .web-link{
+        padding-top: 20px;
+    }
+    .footer-column .footer .web-link span{
+        font-size: 35px;
+    }
+    .footer-column .footer .app-link img{
+        width: 300px;
+        height: 100%;
+    }
+    .footer-column .footer .aboutus1 span{
+        font-size: 35px;
+    }
+    .footer-column .footer .aboutus2 span{
+        font-size: 25px;
+    }
+}
